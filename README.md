@@ -10,9 +10,10 @@ CREATE DATABASE <preferred database name>;
 Figure Collection API login, signup, CRUD of Figure
 
 ## Installation
-Download to your device
+Download the source to your device
 
 ## Running the app
+go to the folder then open with CMD or via Visual Studio Code and in terminal run the code below
 
 ```bash
 # development
